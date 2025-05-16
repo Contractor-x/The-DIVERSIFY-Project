@@ -21,14 +21,14 @@ This project is ideal for scenarios requiring rapid access to large or fragmente
 ---
 
 ## Technology Stack
-
+<!--
 | Component | Details |
 |----------|---------|
 | **Language** | Python 3.11+ |
 | **Modules Used** | `sqlite3`, `threading`, `time`, `os`, `random`, `queue` |
 | **Architecture** | Modular, Multi-threaded, Cache-aware |
 | **External Libraries** | None (runs on core Python only) |
-
+-->
 ---
 
 ## Core Features
