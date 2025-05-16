@@ -1,6 +1,6 @@
  # Project Name: **DIVERSIFY**  
 <!--### *(Enhanced Locust Logic Architecture)* -->
-## MAIN AIM: Futuristic Concept of Government-Confidental level Cloud based computing systems. 
+## MAIN AIM: Futuristic Concept of Government-Confidental Cloud Based Computing Architecture. 
 ---
 
 ## Project Overview
