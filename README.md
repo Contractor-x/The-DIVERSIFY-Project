@@ -62,7 +62,7 @@ This project is ideal for scenarios requiring rapid access to large or fragmente
 5. **Data is returned**, verified, and optionally re-cached.
 -->
 ---
-
+<!--
 No additional installation needed.
 
 ---
@@ -83,7 +83,7 @@ No additional installation needed.
 
 ### Phase 4: Deployment
 - Package and documentation
-
+-->
 ---
 
 ## Performance Metrics (Targets)
