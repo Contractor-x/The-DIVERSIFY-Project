@@ -54,13 +54,13 @@ This project is ideal for scenarios requiring rapid access to large or fragmente
 ---
 
 ## Data Recovery Workflow
-
+<!--
 1. **Receive request** from user/system.
 2. **Check cache layer** (memory-level hit).
 3. If cache miss → **threaded query dispatch** to DB.
 4. If DB fails → **fallback logic** triggers recovery plan.
 5. **Data is returned**, verified, and optionally re-cached.
-
+-->
 ---
 
 No additional installation needed.
