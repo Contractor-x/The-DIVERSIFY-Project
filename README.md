@@ -87,14 +87,14 @@ No additional installation needed.
 ---
 
 ## Performance Metrics (Targets)
-
+<!--
 | Metric | Goal |
 |--------|------|
 | Data Access Latency | ≤ 0.2 seconds |
 | Recovery Accuracy | ≥ 98% |
 | Failover Recovery Time | ≤ 0.3 seconds |
 | Memory Usage | ≤ 250MB |
-
+-->
 ---
 
 
