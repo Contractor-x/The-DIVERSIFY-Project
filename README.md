@@ -42,7 +42,7 @@ This project is ideal for scenarios requiring rapid access to large or fragmente
 ---
 
 ## File Structure
-
+<!--
 | File | Purpose |
 |------|---------|
 | `ella_core.py` | Launchpad, coordinates all recovery ops |
@@ -50,7 +50,7 @@ This project is ideal for scenarios requiring rapid access to large or fragmente
 | `intel_db.py` | Lightweight local database interface |
 | `router.py` | Request handler and priority path selector |
 | `fallback_recovery.py` | Manages failure recovery and retries |
-
+-->
 ---
 
 ## Data Recovery Workflow
